@@ -1,7 +1,7 @@
 dplect/ecs154a-SS1-2020 (c) by Daryl Posnett
 Forked from CC licensed repo by Justin Perona
 
-jlperona-teaching/ecs154a-winter20 is licensed under a
+dplect/ecs154a-SS1-2020, jlperona-teaching/ecs154a-winter20 is licensed under a
 Creative Commons Attribution-NonCommercial 4.0 International License.
 
 You should have received a copy of the license along with this
