@@ -5,7 +5,7 @@
 .. _Canvas: https://canvas.ucdavis.edu/courses/503575
 .. _GitHub: TBD
 .. _schedule: TBD
-.. _zoom: https://ucdavis.zoom.us/j/8054077885?pwd=enh5M3U0SXB6V3I3MGZ3ZlZOMlJFQT09
+.. _zoom: https://ucdavis.zoom.us/
 
 
 ================================
