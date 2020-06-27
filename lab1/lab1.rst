@@ -1,5 +1,5 @@
-:Author: Justin Perona
-:Copyright: © 2020 Justin Perona
+:Author: Daryl Posnett
+:Copyright: © 2020 Daryl Posnett, forked from CC repo by Justin Perona
 :License: CC BY-NC 4.0
 
 ========================
@@ -245,30 +245,3 @@ The *selector* input chooses between which of the four *input* pins to output to
 Hint: we discussed how to make a 4-to-1 multiplexor with one data bit, but you'll need to figure out what to modify to support more data bits.
 
 You may not use MUXes for this problem as it defeats the purpose of the problem.
-
-
-7. Double-digit display [15]
----------------------------------------
-
-* Submission file for this part: *extracredit.circ*
-* Main circuit name: *tripledigit*
-* Input pin(s): *thousand* [10]
-* Output pin(s): *hundreds* [7], *tens* [7], *ones* [7]
-
-This extra credit problem builds upon problem 5.
-Using your circuits from problem 5, build a triple-digit display that can display numbers between 0 and 999.
-The input number to display is provided in *thousand*.
-Note that *thousand* is 10 bits and thus has a maximum of 1024; numbers higher than 999 won't be tested so you may ignore them.
-
-For the output pins, concatenate your values for *a*, *b*, *c*, *d*, *e*, *f*, and *g* in that order for each relevant digit.
-Thus, the 6th and most significant bit should be your *a* output for that digit, while the 0th and least significant bit should be your *g* output for that digit.
-
-The image below shows an example of how the circuit works for an input value of 36.
-
-.. image:: triple-digit-display.png
-    :width: 50%
-    :align: center
-
-You may use anything in the Logisim Evolution Arithmetic library for this problem.
-Testing this problem is best done manually by attaching relevant inputs to *7-Segment Display* modules from the Input/Output library of Logisim Evolution.
-Feel free to leave them inside your circuit if you want before submission; they won't affect the testing.
