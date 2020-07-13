@@ -57,7 +57,7 @@ Logisim Evolution Problems [100]
 Suppose we want to determine how many of the bits in a twelve-bit unsigned number are equal to zero.
 Implement the simplest circuit that can accomplish this task.
 
-You may use any Logisim Evolution component for this problem. Note, however, your design must be 
+You may use any Logisim Evolution component for this problem except for the "bit adder." Note, however, your design must be 
 combinational, you may not use any clocking or sequential solution.
 
 2. Comparator implementation [20]
@@ -83,7 +83,7 @@ You must implement your comparator within the constraints specified for this lab
 3. Parity checker [5]
 ~~~~~~~~~~~~~~~~~~~~~
 
-* Submission file for this part: *5.circ*
+* Submission file for this part: *3.circ*
 * Main circuit name: *parity*
 * Input pin(s): *tenbitinput* [10]
 * Output pin(s): *evenparity* [11]
@@ -99,7 +99,7 @@ That said, it's possible to finish this problem using only a single gate.
 4. 6-bit carry-lookahead unit [25]
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-* Submission file for this part: *6.circ*
+* Submission file for this part: *4.circ*
 * Main circuit name: *cla*
 * Input pin(s): *inputa* [6], *inputb* [6], *carryin* [1]
 * Output pin(s): *carryout* [6], *generator* [6], *propagator* [6]
