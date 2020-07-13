@@ -1,0 +1,1595 @@
+%PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
+1 0 obj
+<<
+/F1 2 0 R /F2 3 0 R /F3 24 0 R /F4 26 0 R
+>>
+endobj
+2 0 obj
+<<
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+>>
+endobj
+3 0 obj
+<<
+/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+>>
+endobj
+4 0 obj
+<<
+/Border [ 0 0 0 ] /Contents () /Dest [ 25 0 R /XYZ 62.69291 489.0236 0 ] /Rect [ 62.69291 666.0236 106.5929 678.0236 ] /Subtype /Link /Type /Annot
+>>
+endobj
+5 0 obj
+<<
+/Border [ 0 0 0 ] /Contents () /Dest [ 25 0 R /XYZ 62.69291 489.0236 0 ] /Rect [ 527.0227 666.7736 532.5827 678.7736 ] /Subtype /Link /Type /Annot
+>>
+endobj
+6 0 obj
+<<
+/Border [ 0 0 0 ] /Contents () /Dest [ 25 0 R /XYZ 62.69291 459.0236 0 ] /Rect [ 82.69291 648.0236 134.3729 660.0236 ] /Subtype /Link /Type /Annot
+>>
+endobj
+7 0 obj
+<<
+/Border [ 0 0 0 ] /Contents () /Dest [ 25 0 R /XYZ 62.69291 459.0236 0 ] /Rect [ 527.0227 648.7736 532.5827 660.7736 ] /Subtype /Link /Type /Annot
+>>
+endobj
+8 0 obj
+<<
+/Border [ 0 0 0 ] /Contents () /Dest [ 25 0 R /XYZ 62.69291 372.0236 0 ] /Rect [ 82.69291 630.0236 275.5629 642.0236 ] /Subtype /Link /Type /Annot
+>>
+endobj
+9 0 obj
+<<
+/Border [ 0 0 0 ] /Contents () /Dest [ 25 0 R /XYZ 62.69291 372.0236 0 ] /Rect [ 527.0227 630.7736 532.5827 642.7736 ] /Subtype /Link /Type /Annot
+>>
+endobj
+10 0 obj
+<<
+/Border [ 0 0 0 ] /Contents () /Dest [ 25 0 R /XYZ 62.69291 315.0236 0 ] /Rect [ 82.69291 612.0236 133.2629 624.0236 ] /Subtype /Link /Type /Annot
+>>
+endobj
+11 0 obj
+<<
+/Border [ 0 0 0 ] /Contents () /Dest [ 25 0 R /XYZ 62.69291 315.0236 0 ] /Rect [ 527.0227 612.7736 532.5827 624.7736 ] /Subtype /Link /Type /Annot
+>>
+endobj
+12 0 obj
+<<
+/Border [ 0 0 0 ] /Contents () /Dest [ 25 0 R /XYZ 62.69291 144.0236 0 ] /Rect [ 62.69291 594.0236 223.8429 606.0236 ] /Subtype /Link /Type /Annot
+>>
+endobj
+13 0 obj
+<<
+/Border [ 0 0 0 ] /Contents () /Dest [ 25 0 R /XYZ 62.69291 144.0236 0 ] /Rect [ 527.0227 594.7736 532.5827 606.7736 ] /Subtype /Link /Type /Annot
+>>
+endobj
+14 0 obj
+<<
+/Border [ 0 0 0 ] /Contents () /Dest [ 25 0 R /XYZ 62.69291 114.0236 0 ] /Rect [ 82.69291 576.0236 165.5229 588.0236 ] /Subtype /Link /Type /Annot
+>>
+endobj
+15 0 obj
+<<
+/Border [ 0 0 0 ] /Contents () /Dest [ 25 0 R /XYZ 62.69291 114.0236 0 ] /Rect [ 527.0227 576.7736 532.5827 588.7736 ] /Subtype /Link /Type /Annot
+>>
+endobj
+16 0 obj
+<<
+/Border [ 0 0 0 ] /Contents () /Dest [ 27 0 R /XYZ 62.69291 627.0236 0 ] /Rect [ 82.69291 558.0236 236.6429 570.0236 ] /Subtype /Link /Type /Annot
+>>
+endobj
+17 0 obj
+<<
+/Border [ 0 0 0 ] /Contents () /Dest [ 27 0 R /XYZ 62.69291 627.0236 0 ] /Rect [ 527.0227 558.7736 532.5827 570.7736 ] /Subtype /Link /Type /Annot
+>>
+endobj
+18 0 obj
+<<
+/Border [ 0 0 0 ] /Contents () /Dest [ 27 0 R /XYZ 62.69291 384.0236 0 ] /Rect [ 82.69291 540.0236 171.0629 552.0236 ] /Subtype /Link /Type /Annot
+>>
+endobj
+19 0 obj
+<<
+/Border [ 0 0 0 ] /Contents () /Dest [ 27 0 R /XYZ 62.69291 384.0236 0 ] /Rect [ 527.0227 540.7736 532.5827 552.7736 ] /Subtype /Link /Type /Annot
+>>
+endobj
+20 0 obj
+<<
+/Border [ 0 0 0 ] /Contents () /Dest [ 27 0 R /XYZ 62.69291 219.0236 0 ] /Rect [ 82.69291 522.0236 226.0929 534.0236 ] /Subtype /Link /Type /Annot
+>>
+endobj
+21 0 obj
+<<
+/Border [ 0 0 0 ] /Contents () /Dest [ 27 0 R /XYZ 62.69291 219.0236 0 ] /Rect [ 527.0227 522.7736 532.5827 534.7736 ] /Subtype /Link /Type /Annot
+>>
+endobj
+22 0 obj
+<<
+/Border [ 0 0 0 ] /Contents () /Dest [ 28 0 R /XYZ 62.69291 675.0236 0 ] /Rect [ 82.69291 504.0236 160.5129 516.0236 ] /Subtype /Link /Type /Annot
+>>
+endobj
+23 0 obj
+<<
+/Border [ 0 0 0 ] /Contents () /Dest [ 28 0 R /XYZ 62.69291 675.0236 0 ] /Rect [ 527.0227 504.7736 532.5827 516.7736 ] /Subtype /Link /Type /Annot
+>>
+endobj
+24 0 obj
+<<
+/BaseFont /Helvetica-BoldOblique /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font
+>>
+endobj
+25 0 obj
+<<
+/Annots [ 4 0 R 5 0 R 6 0 R 7 0 R 8 0 R 9 0 R 10 0 R 11 0 R 12 0 R 13 0 R 
+  14 0 R 15 0 R 16 0 R 17 0 R 18 0 R 19 0 R 20 0 R 21 0 R 22 0 R 23 0 R ] /Contents 45 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 44 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+26 0 obj
+<<
+/BaseFont /Helvetica-Oblique /Encoding /WinAnsiEncoding /Name /F4 /Subtype /Type1 /Type /Font
+>>
+endobj
+27 0 obj
+<<
+/Contents 46 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 44 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
+>>
+endobj
+28 0 obj
+<<
+/Contents 47 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 44 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
+>>
+endobj
+29 0 obj
+<<
+/Contents 48 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 44 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
+>>
+endobj
+30 0 obj
+<<
+/Outlines 32 0 R /PageLabels 49 0 R /PageMode /UseNone /Pages 44 0 R /Type /Catalog
+>>
+endobj
+31 0 obj
+<<
+/Author (Daryl Posnett) /CreationDate (D:20200712173356+08'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20200712173356+08'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+  /Subject (\(unspecified\)) /Title () /Trapped /False
+>>
+endobj
+32 0 obj
+<<
+/Count 14 /First 33 0 R /Last 33 0 R /Type /Outlines
+>>
+endobj
+33 0 obj
+<<
+/Count 10 /Dest [ 25 0 R /XYZ 62.69291 708.0236 0 ] /First 34 0 R /Last 38 0 R /Parent 32 0 R /Title (ECS 154A - Lab 2 SS1 2020)
+>>
+endobj
+34 0 obj
+<<
+/Count 3 /Dest [ 25 0 R /XYZ 62.69291 489.0236 0 ] /First 35 0 R /Last 37 0 R /Next 38 0 R /Parent 33 0 R 
+  /Title (Logistics)
+>>
+endobj
+35 0 obj
+<<
+/Dest [ 25 0 R /XYZ 62.69291 459.0236 0 ] /Next 36 0 R /Parent 34 0 R /Title (Submission)
+>>
+endobj
+36 0 obj
+<<
+/Dest [ 25 0 R /XYZ 62.69291 372.0236 0 ] /Next 37 0 R /Parent 34 0 R /Prev 35 0 R /Title (Logisim Evolution, Grading, and Debugging)
+>>
+endobj
+37 0 obj
+<<
+/Dest [ 25 0 R /XYZ 62.69291 315.0236 0 ] /Parent 34 0 R /Prev 36 0 R /Title (Constraints)
+>>
+endobj
+38 0 obj
+<<
+/Count 5 /Dest [ 25 0 R /XYZ 62.69291 144.0236 0 ] /First 39 0 R /Last 43 0 R /Parent 33 0 R /Prev 34 0 R 
+  /Title (Logisim Evolution Problems [100])
+>>
+endobj
+39 0 obj
+<<
+/Dest [ 25 0 R /XYZ 62.69291 114.0236 0 ] /Next 40 0 R /Parent 38 0 R /Title (1. Bit counting [10])
+>>
+endobj
+40 0 obj
+<<
+/Dest [ 27 0 R /XYZ 62.69291 627.0236 0 ] /Next 41 0 R /Parent 38 0 R /Prev 39 0 R /Title (2. Comparator implementation [20])
+>>
+endobj
+41 0 obj
+<<
+/Dest [ 27 0 R /XYZ 62.69291 384.0236 0 ] /Next 42 0 R /Parent 38 0 R /Prev 40 0 R /Title (3. Parity checker [5])
+>>
+endobj
+42 0 obj
+<<
+/Dest [ 27 0 R /XYZ 62.69291 219.0236 0 ] /Next 43 0 R /Parent 38 0 R /Prev 41 0 R /Title (4. 6-bit carry-lookahead unit [25])
+>>
+endobj
+43 0 obj
+<<
+/Dest [ 28 0 R /XYZ 62.69291 675.0236 0 ] /Parent 38 0 R /Prev 42 0 R /Title (5. 12-bit ALU [40])
+>>
+endobj
+44 0 obj
+<<
+/Count 4 /Kids [ 25 0 R 27 0 R 28 0 R 29 0 R ] /Type /Pages
+>>
+endobj
+45 0 obj
+<<
+/Length 6982
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 750.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 36.93937 0 Td (Author:) Tj T* -36.93937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Daryl Posnett) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 735.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 22.48937 0 Td (Copyright:) Tj T* -22.48937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (\251 2020 Daryl Posnett, forked from CC repo by Justin Perona) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 720.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 32.46937 0 Td (License:) Tj T* -32.46937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (CC BY-NC 4.0) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 687.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (ECS 154A - Lab 2 SS1 2020) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 501.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 0 165 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 .501961 rg (Logistics) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 165 cm
+q
+0 0 .501961 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 66.44 0 Td (1) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 147 cm
+q
+BT 1 0 0 1 20 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (Submission) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 147 cm
+q
+0 0 .501961 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (1) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 129 cm
+q
+BT 1 0 0 1 20 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (Logisim Evolution, Grading, and Debugging) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 129 cm
+q
+0 0 .501961 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (1) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 111 cm
+q
+BT 1 0 0 1 20 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (Constraints) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 111 cm
+q
+0 0 .501961 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (1) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 93 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 .501961 rg (Logisim Evolution Problems [100]) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 93 cm
+q
+0 0 .501961 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 66.44 0 Td (1) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 75 cm
+q
+BT 1 0 0 1 20 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (1. Bit counting [10]) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 75 cm
+q
+0 0 .501961 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (1) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 57 cm
+q
+BT 1 0 0 1 20 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (2. Comparator implementation [20]) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 57 cm
+q
+0 0 .501961 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (2) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 39 cm
+q
+BT 1 0 0 1 20 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (3. Parity checker [5]) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 39 cm
+q
+0 0 .501961 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (2) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 21 cm
+q
+BT 1 0 0 1 20 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (4. 6-bit carry-lookahead unit [25]) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 21 cm
+q
+0 0 .501961 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (2) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 3 cm
+q
+BT 1 0 0 1 20 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (5. 12-bit ALU [40]) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 3 cm
+q
+0 0 .501961 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (3) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 471.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Logistics) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 444.0236 cm
+q
+BT 1 0 0 1 0 2.5 Tm 15 TL /F3 12.5 Tf 0 0 0 rg (Submission) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 426.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Due by 20:00 on Friday, 2020-07-17.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 384.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL 2.238735 Tw (Turn in for the Logisim Evolution portion is on Gradescope. Submit the specified .circ files for each) Tj T* 0 Tw .686136 Tw (problem. The person submitting should specify their partner's name \(if necessary\) during the submission) Tj T* 0 Tw (process.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 357.0236 cm
+q
+BT 1 0 0 1 0 2.5 Tm 15 TL /F3 12.5 Tf 0 0 0 rg (Logisim Evolution, Grading, and Debugging) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 327.0236 cm
+q
+BT 1 0 0 1 0 14 Tm 1.57811 Tw 12 TL /F1 10 Tf 0 0 0 rg (Need a reminder on how to download Logisim Evolution, how your circuits are autograded, or how to) Tj T* 0 Tw (debug your circuits? Check the relevant sections of the ) Tj 1 0 0 rg (`Lab 1 document`_) Tj 0 0 0 rg (.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 300.0236 cm
+q
+BT 1 0 0 1 0 2.5 Tm 15 TL /F3 12.5 Tf 0 0 0 rg (Constraints) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 282.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (For these problems, unless specified otherwise, you must use designs relying on only the following:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 276.0236 cm
+Q
+q
+1 0 0 1 62.69291 276.0236 cm
+Q
+q
+1 0 0 1 62.69291 264.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (basic gates \(NOT, AND, OR, NAND, NOR, XOR, XNOR\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 258.0236 cm
+Q
+q
+1 0 0 1 62.69291 246.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (MUXes) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 240.0236 cm
+Q
+q
+1 0 0 1 62.69291 228.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (decoders) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 222.0236 cm
+Q
+q
+1 0 0 1 62.69291 210.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (the Logisim Evolution wiring library) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 210.0236 cm
+Q
+q
+1 0 0 1 62.69291 156.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL .30881 Tw (Violating specified constraints will result in a 0 on the problem in question. While the autograder may give) Tj T* 0 Tw .012209 Tw (you credit even if you violate a constraint, we will check submissions after the due date and update grades) Tj T* 0 Tw 1.69881 Tw (appropriately. Note that for this lab you may not be warned of all of the autograder's grading criteria.) Tj T* 0 Tw (Please read the instructions carefully and heed all constraints.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 126.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Logisim Evolution Problems [100]) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 99.02362 cm
+q
+BT 1 0 0 1 0 2.5 Tm 15 TL /F3 12.5 Tf 0 0 0 rg (1. Bit counting [10]) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 87.02362 cm
+Q
+q
+1 0 0 1 62.69291 87.02362 cm
+Q
+ 
+endstream
+endobj
+46 0 obj
+<<
+/Length 9527
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 753.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Submission file for this part: ) Tj /F4 10 Tf (1.circ) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 747.0236 cm
+Q
+q
+1 0 0 1 62.69291 735.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Main circuit name: ) Tj /F4 10 Tf (bitcounting) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 729.0236 cm
+Q
+q
+1 0 0 1 62.69291 717.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Input pin\(s\): ) Tj /F4 10 Tf (twelvebitinput) Tj /F1 10 Tf ( [12]) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 711.0236 cm
+Q
+q
+1 0 0 1 62.69291 699.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Output pin\(s\): ) Tj /F4 10 Tf (zeroes) Tj /F1 10 Tf ( [4]) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 699.0236 cm
+Q
+q
+1 0 0 1 62.69291 669.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .75332 Tw (Suppose we want to determine how many of the bits in a twelve-bit unsigned number are equal to zero.) Tj T* 0 Tw (Implement the simplest circuit that can accomplish this task.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 639.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .161235 Tw (You may use any Logisim Evolution component for this problem except for the "bit adder." Note, however,) Tj T* 0 Tw (your design must be combinational, you may not use any clocking or sequential solution.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 612.0236 cm
+q
+BT 1 0 0 1 0 2.5 Tm 15 TL /F3 12.5 Tf 0 0 0 rg (2. Comparator implementation [20]) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 600.0236 cm
+Q
+q
+1 0 0 1 62.69291 600.0236 cm
+Q
+q
+1 0 0 1 62.69291 588.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Submission file for this part: ) Tj /F4 10 Tf (2.circ) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 582.0236 cm
+Q
+q
+1 0 0 1 62.69291 570.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Main circuit name: ) Tj /F4 10 Tf (comparison) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 564.0236 cm
+Q
+q
+1 0 0 1 62.69291 552.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Input pin\(s\): ) Tj /F4 10 Tf (inputa) Tj /F1 10 Tf ( [2], ) Tj /F4 10 Tf (inputb) Tj /F1 10 Tf ( [2]) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 546.0236 cm
+Q
+q
+1 0 0 1 62.69291 534.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Output pin\(s\): ) Tj /F4 10 Tf (areequal) Tj /F1 10 Tf ( [1], ) Tj /F4 10 Tf (greaterthan) Tj /F1 10 Tf ( [1], ) Tj /F4 10 Tf (lessthan) Tj /F1 10 Tf ( [1]) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 534.0236 cm
+Q
+q
+1 0 0 1 62.69291 516.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Implement a 2-bit comparator.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 414.0236 cm
+q
+BT 1 0 0 1 0 86 Tm 1.563555 Tw 12 TL /F1 10 Tf 0 0 0 rg (Note that for greaterthan and lessthan, this means a) Tj (>) Tj (b, and a) Tj (<) Tj (b respectively. While already specified) Tj T* 0 Tw .043876 Tw (above, you may not use anything from the Arithmetic library for this problem as this defeats the purpose of) Tj T* 0 Tw 1.75311 Tw (the problem. Further, you may only use NAND gates to construct this circuit. I recommend doing the) Tj T* 0 Tw 2.202485 Tw (design first with standard gates \(on paper\) and then converting the design to NAND gates. For this) Tj T* 0 Tw .014104 Tw (problem your circuit must be minimal and efficient. I encourage you to think carefully about what is needed) Tj T* 0 Tw 1.053984 Tw (here. You must use kmaps to implement the basic comparison operations efficiently and you must also) Tj T* 0 Tw .940542 Tw (think about efficiency with respect to the whole circuit. Your goal will be to construct this circuit with the) Tj T* 0 Tw (fewest number of NAND gates possible.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 396.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (You must implement your comparator within the constraints specified for this lab.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 369.0236 cm
+q
+BT 1 0 0 1 0 2.5 Tm 15 TL /F3 12.5 Tf 0 0 0 rg (3. Parity checker [5]) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 357.0236 cm
+Q
+q
+1 0 0 1 62.69291 357.0236 cm
+Q
+q
+1 0 0 1 62.69291 345.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Submission file for this part: ) Tj /F4 10 Tf (3.circ) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 339.0236 cm
+Q
+q
+1 0 0 1 62.69291 327.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Main circuit name: ) Tj /F4 10 Tf (parity) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 321.0236 cm
+Q
+q
+1 0 0 1 62.69291 309.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Input pin\(s\): ) Tj /F4 10 Tf (tenbitinput) Tj /F1 10 Tf ( [10]) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 303.0236 cm
+Q
+q
+1 0 0 1 62.69291 291.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Output pin\(s\): ) Tj /F4 10 Tf (evenparity) Tj /F1 10 Tf ( [11]) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 291.0236 cm
+Q
+q
+1 0 0 1 62.69291 261.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .437633 Tw (Implement a simple even parity checker. Given a ten-bit number, output an 11th bit that ensures the total) Tj T* 0 Tw (number of bits that are 1 is even. Concatenate this bit to the original number as the least significant bit.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 231.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .787988 Tw (There are parity gates for both type of parity. It defeats the purpose of this problem if you use those, so) Tj T* 0 Tw (you may not use either of them. That said, it's possible to finish this problem using only a single gate.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 204.0236 cm
+q
+BT 1 0 0 1 0 2.5 Tm 15 TL /F3 12.5 Tf 0 0 0 rg (4. 6-bit carry-lookahead unit [25]) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 192.0236 cm
+Q
+q
+1 0 0 1 62.69291 192.0236 cm
+Q
+q
+1 0 0 1 62.69291 180.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Submission file for this part: ) Tj /F4 10 Tf (4.circ) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 174.0236 cm
+Q
+q
+1 0 0 1 62.69291 162.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Main circuit name: ) Tj /F4 10 Tf (cla) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 156.0236 cm
+Q
+q
+1 0 0 1 62.69291 144.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Input pin\(s\): ) Tj /F4 10 Tf (inputa) Tj /F1 10 Tf ( [6], ) Tj /F4 10 Tf (inputb) Tj /F1 10 Tf ( [6], ) Tj /F4 10 Tf (carryin) Tj /F1 10 Tf ( [1]) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 138.0236 cm
+Q
+q
+1 0 0 1 62.69291 126.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Output pin\(s\): ) Tj /F4 10 Tf (carryout) Tj /F1 10 Tf ( [6], ) Tj /F4 10 Tf (generator) Tj /F1 10 Tf ( [6], ) Tj /F4 10 Tf (propagator) Tj /F1 10 Tf ( [6]) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 126.0236 cm
+Q
+q
+1 0 0 1 62.69291 84.02362 cm
+q
+BT 1 0 0 1 0 26 Tm .144692 Tw 12 TL /F1 10 Tf 0 0 0 rg (Implement a 6-bit carry-lookahead unit \(CLA\). For the given ) Tj /F4 10 Tf (carryin) Tj /F1 10 Tf ( and each bit of the given inputs ) Tj /F4 10 Tf (inputa) Tj /F1 10 Tf  T* 0 Tw .642651 Tw (and ) Tj /F4 10 Tf (inputb) Tj /F1 10 Tf (, generate the relevant ) Tj /F4 10 Tf (carryout) Tj /F1 10 Tf ( bits. You will also need to output the corresponding ) Tj /F4 10 Tf (generator) Tj /F1 10 Tf  T* 0 Tw (and ) Tj /F4 10 Tf (propagator) Tj /F1 10 Tf ( bits.) Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+47 0 obj
+<<
+/Length 8620
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 705.0236 cm
+q
+BT 1 0 0 1 0 50 Tm .011488 Tw 12 TL /F1 10 Tf 0 0 0 rg (Your CLA must be a true CLA. If your unit ripples the carry rather than calculating each carry based on the) Tj T* 0 Tw .705488 Tw /F4 10 Tf (generator) Tj /F1 10 Tf ( and ) Tj /F4 10 Tf (propagator) Tj /F1 10 Tf ( bits, you will get a 0. Your equations for C6 .. C1 should purely be in terms of) Tj T* 0 Tw .486988 Tw (C0, or ) Tj /F4 10 Tf (carryin) Tj /F1 10 Tf (. \(Note: In class we called carry in C-1, but that presents issues with logisim, so we use C0) Tj T* 0 Tw .351567 Tw (here.\) If a wire is feeding from your calculated C1 into your calculations for C2, or if you're duplicating the) Tj T* 0 Tw (gates for C1 for use in C2, you're making a ripple-carry adder.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 687.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (While already specified above, you may not use anything from the Arithmetic library for this problem.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 660.0236 cm
+q
+BT 1 0 0 1 0 2.5 Tm 15 TL /F3 12.5 Tf 0 0 0 rg (5. 12-bit ALU [40]) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 648.0236 cm
+Q
+q
+1 0 0 1 62.69291 648.0236 cm
+Q
+q
+1 0 0 1 62.69291 636.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Submission file for this part: ) Tj /F4 10 Tf (7.circ) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 630.0236 cm
+Q
+q
+1 0 0 1 62.69291 618.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Main circuit name: ) Tj /F4 10 Tf (alu) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 612.0236 cm
+Q
+q
+1 0 0 1 62.69291 600.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Input pin\(s\): ) Tj /F4 10 Tf (inputa) Tj /F1 10 Tf ( [12], ) Tj /F4 10 Tf (inputb) Tj /F1 10 Tf ( [12], ) Tj /F4 10 Tf (operation) Tj /F1 10 Tf ( [3]) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 598.8661 cm
+Q
+q
+1 0 0 1 62.69291 586.8661 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Output pin\(s\): ) Tj /F4 10 Tf (aluout) Tj /F1 10 Tf ( [12], ) Tj /F4 10 Tf (overflow) Tj /F1 10 Tf ( [1], ) Tj /F4 10 Tf (carry) Tj /F1 10 Tf ( [1], ) Tj /F4 10 Tf (zero) Tj /F1 10 Tf ( [1]) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 586.8661 cm
+Q
+q
+1 0 0 1 62.69291 568.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (I highly recommend that you finish the previous problem before starting this one.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 538.8661 cm
+q
+BT 1 0 0 1 0 14 Tm 1.802765 Tw 12 TL /F1 10 Tf 0 0 0 rg (Design a 12-bit ALU. Given the following input as the ) Tj /F4 10 Tf (operation) Tj /F1 10 Tf ( line, each bit cell of the ALU should) Tj T* 0 Tw (perform the appropriate operation:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 532.8661 cm
+Q
+q
+1 0 0 1 62.69291 532.8661 cm
+Q
+q
+1 0 0 1 62.69291 520.8661 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (000 = AND) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 514.8661 cm
+Q
+q
+1 0 0 1 62.69291 502.8661 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (001 = OR) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 496.8661 cm
+Q
+q
+1 0 0 1 62.69291 484.8661 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (010 = XOR) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 478.8661 cm
+Q
+q
+1 0 0 1 62.69291 466.8661 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (011 = NOT A) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 460.8661 cm
+Q
+q
+1 0 0 1 62.69291 448.8661 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (100 = ADD \(A + B\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 442.8661 cm
+Q
+q
+1 0 0 1 62.69291 430.8661 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (101 = SUB \(A - B\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 424.8661 cm
+Q
+q
+1 0 0 1 62.69291 412.8661 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (110 = INC A) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 406.8661 cm
+Q
+q
+1 0 0 1 62.69291 394.8661 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (111 = DEC A) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 394.8661 cm
+Q
+q
+1 0 0 1 62.69291 316.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 62 Tm /F1 10 Tf 12 TL .044269 Tw (All arithmetic operations will be on 2's complement numbers. This only matters for the ADD/SUB/INC/DEC) Tj T* 0 Tw 1.256457 Tw (operations, since the others are performed bitwise. Note that you must use your six bit adder from the) Tj T* 0 Tw 1.053318 Tw (previous exercise to construct the 12 bit adder/subtractor for this exercise. Your 12 bit adder subtractor) Tj T* 0 Tw -0.088106 Tw (must be a "hybrid" circuit such that you make use of two 6 bit CLA units and combine them use ripple carry) Tj T* 0 Tw .013876 Tw (from one circuit into the other. If you create a pure ripple-carry adder instead of using your previous circuit,) Tj T* 0 Tw (you will lose points.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 226.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 74 Tm /F1 10 Tf 12 TL 1.683318 Tw (Overflows are expected and you must indicate overflow by properly setting the overflow output bit for) Tj T* 0 Tw 1.017318 Tw (operations where overflow can occur. Similarly, you must set the carry output bit whenever the function) Tj T* 0 Tw .244724 Tw (has the potential to generate a carry. You do not have to do anything special in terms of interpreting carry) Tj T* 0 Tw 1.512765 Tw (for subtract operations, just make sure that the carry bit reflects the state of the ALU's carry bit when) Tj T* 0 Tw .654724 Tw (appropriate. Make sure that the carry bit is not set for operations that do not generate a carry. You must) Tj T* 0 Tw 2.293672 Tw (set the zero output bit whenever the result of an operation is equal to zero. This must work for all) Tj T* 0 Tw (operations where it is appropriate.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 184.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL .309398 Tw (The basic design of this ALU should be bit-parallel, that is, you will create bit-serial modules and combine) Tj T* 0 Tw 2.142765 Tw (them in a bit-parallel datapath. To be clear, you will have a 12 bit adder/subtractor and 12 bit logic) Tj T* 0 Tw (modules. You must use a 12 bit MUX to route the outputs of these modules.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 130.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL 1.500651 Tw (Your NOT inplementation must make use of the XOR logic circuit and your INC/DEC operations must) Tj T* 0 Tw 1.126654 Tw (make use of ADD/SUB. Thus your output MUX will only have four \(12 bit\) inputs, AND, OR, XOR, and) Tj T* 0 Tw .930574 Tw (ADD/SUB. This adds complexity to your mapper and various control circuits, but that is the point of this) Tj T* 0 Tw (exercise. You will lose points if you do not heed these instructions.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 100.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .474431 Tw (I highly recommend the use of subcircuits to aid in testing and debugging. Create your 12 bit adder, then) Tj T* 0 Tw (an adder subtractor, the logic circuits AND, OR, XOR, then combine these to make your ALU.) Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+48 0 obj
+<<
+/Length 678
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 741.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL -0.077791 Tw (Note: your controller circuits must be minimal and efficient. You should use kmaps to make sure that this is) Tj T* 0 Tw (the case. You will lose points if you attempt to brute force the controllers.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 711.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .363735 Tw (While already specified above, you may not use anything from the Arithmetic library for this problem. You) Tj T* 0 Tw (will get a 0 if you use the built-in adder or subtractor; create the logic for those operations using gates.) Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+49 0 obj
+<<
+/Nums [ 0 50 0 R 1 51 0 R 2 52 0 R 3 53 0 R ]
+>>
+endobj
+50 0 obj
+<<
+/S /D /St 1
+>>
+endobj
+51 0 obj
+<<
+/S /D /St 2
+>>
+endobj
+52 0 obj
+<<
+/S /D /St 3
+>>
+endobj
+53 0 obj
+<<
+/S /D /St 4
+>>
+endobj
+xref
+0 54
+0000000000 65535 f 
+0000000073 00000 n 
+0000000136 00000 n 
+0000000243 00000 n 
+0000000355 00000 n 
+0000000523 00000 n 
+0000000691 00000 n 
+0000000859 00000 n 
+0000001027 00000 n 
+0000001195 00000 n 
+0000001363 00000 n 
+0000001532 00000 n 
+0000001701 00000 n 
+0000001870 00000 n 
+0000002039 00000 n 
+0000002208 00000 n 
+0000002377 00000 n 
+0000002546 00000 n 
+0000002715 00000 n 
+0000002884 00000 n 
+0000003053 00000 n 
+0000003222 00000 n 
+0000003391 00000 n 
+0000003560 00000 n 
+0000003729 00000 n 
+0000003849 00000 n 
+0000004204 00000 n 
+0000004320 00000 n 
+0000004526 00000 n 
+0000004732 00000 n 
+0000004938 00000 n 
+0000005044 00000 n 
+0000005315 00000 n 
+0000005390 00000 n 
+0000005541 00000 n 
+0000005691 00000 n 
+0000005803 00000 n 
+0000005959 00000 n 
+0000006072 00000 n 
+0000006245 00000 n 
+0000006367 00000 n 
+0000006515 00000 n 
+0000006651 00000 n 
+0000006800 00000 n 
+0000006920 00000 n 
+0000007002 00000 n 
+0000014036 00000 n 
+0000023615 00000 n 
+0000032287 00000 n 
+0000033016 00000 n 
+0000033084 00000 n 
+0000033118 00000 n 
+0000033152 00000 n 
+0000033186 00000 n 
+trailer
+<<
+/ID 
+[<bb3328708dc7b9148666b2cd53cbd013><bb3328708dc7b9148666b2cd53cbd013>]
+% ReportLab generated PDF document -- digest (http://www.reportlab.com)
+
+/Info 31 0 R
+/Root 30 0 R
+/Size 54
+>>
+startxref
+33220
+%%EOF
