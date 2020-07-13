@@ -120,7 +120,7 @@ While already specified above, you may not use anything from the Arithmetic libr
 5. 12-bit ALU [40]
 ~~~~~~~~~~~~~~~~~
 
-* Submission file for this part: *7.circ*
+* Submission file for this part: *5.circ*
 * Main circuit name: *alu*
 * Input pin(s): *inputa* [12], *inputb* [12], *operation* [3]
 * Output pin(s): *aluout* [12], *overflow* [1], *carry* [1], *zero* [1]
