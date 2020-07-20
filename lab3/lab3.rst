@@ -15,7 +15,7 @@ Logistics
 Submission
 ~~~~~~~~~~
 
-Due by 20:00 on Friday, 2020-07-31.
+Due by 20:00 on Wed, 2020-07-29.
 Note: This due date will be the same for lab 4, this is to allow you to plan your time. This 
 lab has been significantly shortened for the current situation. 
 
