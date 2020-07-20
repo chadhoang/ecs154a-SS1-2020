@@ -265,7 +265,11 @@ Doing so will result in a 0.
 
 Design a eight-bit register that uses T flip flops to store its values.
 This implementation differs from the one talked about in lecture, which used D flip flops.
-The register starts out with 0000 0000 (all zeroes) as its first value.
+The register starts out with 0000 0000 (all zeroes) as its first value. Note that your register 
+does not have an enable input and will thus write its input on every clock cycle. 
+
+As an exercise, I encourage you to think about what would be necessary in order to add an enable input as it's 
+straightforward to do so.
 
 You may only use 8 T flip flops to store your values.
 You may not use any other module from the Memory library or use more than 8 T flip flops.
