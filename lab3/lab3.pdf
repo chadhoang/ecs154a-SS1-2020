@@ -147,22 +147,22 @@ endobj
 endobj
 30 0 obj
 <<
-/Border [ 0 0 0 ] /Contents () /Dest [ 49 0 R /XYZ 62.69291 316.8661 0 ] /Rect [ 82.69291 432.0236 184.4129 444.0236 ] /Subtype /Link /Type /Annot
+/Border [ 0 0 0 ] /Contents () /Dest [ 49 0 R /XYZ 62.69291 274.8661 0 ] /Rect [ 82.69291 432.0236 184.4129 444.0236 ] /Subtype /Link /Type /Annot
 >>
 endobj
 31 0 obj
 <<
-/Border [ 0 0 0 ] /Contents () /Dest [ 49 0 R /XYZ 62.69291 316.8661 0 ] /Rect [ 527.0227 432.7736 532.5827 444.7736 ] /Subtype /Link /Type /Annot
+/Border [ 0 0 0 ] /Contents () /Dest [ 49 0 R /XYZ 62.69291 274.8661 0 ] /Rect [ 527.0227 432.7736 532.5827 444.7736 ] /Subtype /Link /Type /Annot
 >>
 endobj
 32 0 obj
 <<
-/Border [ 0 0 0 ] /Contents () /Dest [ 50 0 R /XYZ 62.69291 675.0236 0 ] /Rect [ 82.69291 414.0236 220.5429 426.0236 ] /Subtype /Link /Type /Annot
+/Border [ 0 0 0 ] /Contents () /Dest [ 50 0 R /XYZ 62.69291 633.0236 0 ] /Rect [ 82.69291 414.0236 220.5429 426.0236 ] /Subtype /Link /Type /Annot
 >>
 endobj
 33 0 obj
 <<
-/Border [ 0 0 0 ] /Contents () /Dest [ 50 0 R /XYZ 62.69291 675.0236 0 ] /Rect [ 527.0227 414.7736 532.5827 426.7736 ] /Subtype /Link /Type /Annot
+/Border [ 0 0 0 ] /Contents () /Dest [ 50 0 R /XYZ 62.69291 633.0236 0 ] /Rect [ 527.0227 414.7736 532.5827 426.7736 ] /Subtype /Link /Type /Annot
 >>
 endobj
 34 0 obj
@@ -301,7 +301,7 @@ endobj
 endobj
 52 0 obj
 <<
-/Author (Daryl Posnett) /CreationDate (D:20200719220057+08'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20200719220057+08'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+/Author (Daryl Posnett) /CreationDate (D:20200720152720+08'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20200720152720+08'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
   /Subject (\(unspecified\)) /Title () /Trapped /False
 >>
 endobj
@@ -385,12 +385,12 @@ endobj
 endobj
 68 0 obj
 <<
-/Dest [ 49 0 R /XYZ 62.69291 316.8661 0 ] /Next 69 0 R /Parent 65 0 R /Prev 67 0 R /Title (3. Parity generator [20])
+/Dest [ 49 0 R /XYZ 62.69291 274.8661 0 ] /Next 69 0 R /Parent 65 0 R /Prev 67 0 R /Title (3. Parity generator [20])
 >>
 endobj
 69 0 obj
 <<
-/Dest [ 50 0 R /XYZ 62.69291 675.0236 0 ] /Parent 65 0 R /Prev 68 0 R /Title (4. Bit sequence recognizer [30])
+/Dest [ 50 0 R /XYZ 62.69291 633.0236 0 ] /Parent 65 0 R /Prev 68 0 R /Title (4. Bit sequence recognizer [30])
 >>
 endobj
 70 0 obj
@@ -400,7 +400,7 @@ endobj
 endobj
 71 0 obj
 <<
-/Length 6929
+/Length 6926
 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -691,7 +691,7 @@ q
 1 0 0 1 62.69291 324.0236 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .237262 Tw (Due by 20:00 on Friday, 2020-07-31. Note: This due date will be the same for lab 4, this is to allow you to) Tj T* 0 Tw (plan your time. This lab has been significantly shortened for the current situation.) Tj T* ET
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .565444 Tw (Due by 20:00 on Wed, 2020-07-29. Note: This due date will be the same for lab 4, this is to allow you to) Tj T* 0 Tw (plan your time. This lab has been significantly shortened for the current situation.) Tj T* ET
 Q
 Q
 q
@@ -1790,7 +1790,7 @@ endstream
 endobj
 75 0 obj
 <<
-/Length 9004
+/Length 9068
 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -2023,40 +2023,47 @@ q
 1 0 0 1 62.69291 430.8661 cm
 Q
 q
-1 0 0 1 62.69291 388.8661 cm
+1 0 0 1 62.69291 376.8661 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL -0.01668 Tw (Design a eight-bit register that uses T flip flops to store its values. This implementation differs from the one) Tj T* 0 Tw .802619 Tw (talked about in lecture, which used D flip flops. The register starts out with 0000 0000 \(all zeroes\) as its) Tj T* 0 Tw (first value.) Tj T* ET
+BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL -0.01668 Tw (Design a eight-bit register that uses T flip flops to store its values. This implementation differs from the one) Tj T* 0 Tw .802619 Tw (talked about in lecture, which used D flip flops. The register starts out with 0000 0000 \(all zeroes\) as its) Tj T* 0 Tw .011488 Tw (first value. Note that your register does not have an enable input and will thus write its input on every clock) Tj T* 0 Tw (cycle.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 358.8661 cm
+1 0 0 1 62.69291 346.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL -0.129512 Tw (As an exercise, I encourage you to think about what would be necessary in order to add an enable input as) Tj T* 0 Tw (it's straightforward to do so.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 316.8661 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .223322 Tw (You may only use 8 T flip flops to store your values. You may not use any other module from the Memory) Tj T* 0 Tw (library or use more than 8 T flip flops. Doing so will result in a 0.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 328.8661 cm
+1 0 0 1 62.69291 286.8661 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.036303 Tw (You may use XOR gates in addition to the AND, OR, and NOT gates you are normally allowed to use.) Tj T* 0 Tw (There is no limit on the number of those gates you may use.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 301.8661 cm
+1 0 0 1 62.69291 259.8661 cm
 q
 BT 1 0 0 1 0 2.5 Tm 15 TL /F3 12.5 Tf 0 0 0 rg (3. Parity generator [20]) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 289.8661 cm
+1 0 0 1 62.69291 247.8661 cm
 Q
 q
-1 0 0 1 62.69291 289.8661 cm
+1 0 0 1 62.69291 247.8661 cm
 Q
 q
-1 0 0 1 62.69291 277.8661 cm
+1 0 0 1 62.69291 235.8661 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -2076,10 +2083,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 271.8661 cm
+1 0 0 1 62.69291 229.8661 cm
 Q
 q
-1 0 0 1 62.69291 259.8661 cm
+1 0 0 1 62.69291 217.8661 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -2099,10 +2106,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 253.8661 cm
+1 0 0 1 62.69291 211.8661 cm
 Q
 q
-1 0 0 1 62.69291 241.8661 cm
+1 0 0 1 62.69291 199.8661 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -2122,10 +2129,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 235.8661 cm
+1 0 0 1 62.69291 193.8661 cm
 Q
 q
-1 0 0 1 62.69291 223.8661 cm
+1 0 0 1 62.69291 181.8661 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -2145,18 +2152,18 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 223.8661 cm
+1 0 0 1 62.69291 181.8661 cm
 Q
 q
-1 0 0 1 62.69291 169.8661 cm
+1 0 0 1 62.69291 127.8661 cm
 q
 BT 1 0 0 1 0 38 Tm .910542 Tw 12 TL /F1 10 Tf 0 0 0 rg (Derive a minimal state table for a Moore model FSM that acts as a three-bit parity generator. For every) Tj T* 0 Tw .01436 Tw (three bits that are observed on ) Tj /F4 10 Tf (inputw) Tj /F1 10 Tf ( during three consecutive clock cycles, the FSM generates the parity) Tj T* 0 Tw 1.133171 Tw (bit ) Tj /F4 10 Tf (outputq = 1) Tj /F1 10 Tf ( if the number of 1s received in the sequence so far is odd. Thus, this is an even parity) Tj T* 0 Tw (generator. Implement the FSM as a circuit in Logisim Evolution.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 91.86614 cm
+1 0 0 1 62.69291 85.86614 cm
 q
-BT 1 0 0 1 0 62 Tm .909513 Tw 12 TL /F1 10 Tf 0 0 0 rg (Note that the FSM outputs a 1 as long as the number of 1s received ) Tj /F4 10 Tf (so far) Tj /F1 10 Tf ( in the three-bit sequence is) Tj T* 0 Tw .362619 Tw (odd. This means that the circuit can output 1s before receiving all three bits. An example of this would be) Tj T* 0 Tw 1.174751 Tw (receiving the input 1 at the start; the circuit will output 1 after seeing the 1. Had the FSM received a 0) Tj T* 0 Tw .066488 Tw (instead, the circuit would output 0. If the circuit receives a 0 after receiving the 1, the circuit would output 1) Tj T* 0 Tw .332619 Tw (again. Note that after receiving the three bits, the circuit resets and starts looking at the next three bit set;) Tj T* 0 Tw (thus, this is not a sliding window.) Tj T* ET
+BT 1 0 0 1 0 26 Tm .909513 Tw 12 TL /F1 10 Tf 0 0 0 rg (Note that the FSM outputs a 1 as long as the number of 1s received ) Tj /F4 10 Tf (so far) Tj /F1 10 Tf ( in the three-bit sequence is) Tj T* 0 Tw .362619 Tw (odd. This means that the circuit can output 1s before receiving all three bits. An example of this would be) Tj T* 0 Tw 1.174751 Tw (receiving the input 1 at the start; the circuit will output 1 after seeing the 1. Had the FSM received a 0) Tj T* 0 Tw ET
 Q
 Q
  
@@ -2164,38 +2171,44 @@ endstream
 endobj
 76 0 obj
 <<
-/Length 4281
+/Length 4686
 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
-1 0 0 1 62.69291 741.0236 cm
+1 0 0 1 62.69291 729.0236 cm
+q
+BT 1 0 0 1 0 26 Tm .066488 Tw 12 TL /F1 10 Tf 0 0 0 rg (instead, the circuit would output 0. If the circuit receives a 0 after receiving the 1, the circuit would output 1) Tj T* 0 Tw .332619 Tw (again. Note that after receiving the three bits, the circuit resets and starts looking at the next three bit set;) Tj T* 0 Tw (thus, this is not a sliding window.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 699.0236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL -0.134358 Tw (You may use a maximum of 3 flip flops for this problem. If you need to use more than 3 flip flops, your FSM) Tj T* 0 Tw (is not minimized. You will lose a significant portion of credit if you have more than 3 flip flops in your circuit.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 687.0236 cm
+1 0 0 1 62.69291 645.0236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL 1.043798 Tw (You may use a maximum of 14 AND gates and 4 OR gates with any number of inputs. You will lose a) Tj T* 0 Tw .13832 Tw (significant portion of credit if you have more, as it means your combinational logic is not minimized, or you) Tj T* 0 Tw .136098 Tw (made a mistake on code word assignment. If you violate both this and the previous constraint, you will get) Tj T* 0 Tw (a 0.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 660.0236 cm
+1 0 0 1 62.69291 618.0236 cm
 q
 BT 1 0 0 1 0 2.5 Tm 15 TL /F3 12.5 Tf 0 0 0 rg (4. Bit sequence recognizer [30]) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 648.0236 cm
+1 0 0 1 62.69291 606.0236 cm
 Q
 q
-1 0 0 1 62.69291 648.0236 cm
+1 0 0 1 62.69291 606.0236 cm
 Q
 q
-1 0 0 1 62.69291 636.0236 cm
+1 0 0 1 62.69291 594.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -2215,10 +2228,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 630.0236 cm
+1 0 0 1 62.69291 588.0236 cm
 Q
 q
-1 0 0 1 62.69291 618.0236 cm
+1 0 0 1 62.69291 576.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -2238,10 +2251,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 612.0236 cm
+1 0 0 1 62.69291 570.0236 cm
 Q
 q
-1 0 0 1 62.69291 600.0236 cm
+1 0 0 1 62.69291 558.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -2261,10 +2274,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 594.0236 cm
+1 0 0 1 62.69291 552.0236 cm
 Q
 q
-1 0 0 1 62.69291 582.0236 cm
+1 0 0 1 62.69291 540.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -2284,36 +2297,36 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 582.0236 cm
+1 0 0 1 62.69291 540.0236 cm
 Q
 q
-1 0 0 1 62.69291 528.0236 cm
+1 0 0 1 62.69291 486.0236 cm
 q
 BT 1 0 0 1 0 38 Tm 2.304104 Tw 12 TL /F1 10 Tf 0 0 0 rg (Derive a minimal state table for a Mealy model FSM that acts as a sequence checker. During four) Tj T* 0 Tw .864104 Tw (consecutive clock cycles, a sequence of four values of the signal ) Tj /F4 10 Tf (x) Tj /F1 10 Tf ( is applied, forming a binary number.) Tj T* 0 Tw .414431 Tw (The oldest value of ) Tj /F4 10 Tf (x) Tj /F1 10 Tf ( would become the most significant bit in that binary number. The most recent value) Tj T* 0 Tw (of ) Tj /F4 10 Tf (x) Tj /F1 10 Tf ( would become the least significant bit.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 486.0236 cm
+1 0 0 1 62.69291 444.0236 cm
 q
 BT 1 0 0 1 0 26 Tm .190488 Tw 12 TL /F1 10 Tf 0 0 0 rg (The FSM will output ) Tj /F4 10 Tf (outputr = 1) Tj /F1 10 Tf ( when it detects that the previous 4 bit sequence was either 0100 or 1010.) Tj T* 0 Tw .343735 Tw (At all other times, including when the previous sequence was not those described previously, ) Tj /F4 10 Tf (outputr = 0) Tj /F1 10 Tf (.) Tj T* 0 Tw (Implement the FSM as a circuit in Logisim Evolution.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 456.0236 cm
+1 0 0 1 62.69291 414.0236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .773672 Tw (Note that much like the last problem, this is not a sliding window. After the fourth clock pulse, the circuit) Tj T* 0 Tw (resets itself and is ready to take in the next 4 bit sequence.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 438.0236 cm
+1 0 0 1 62.69291 396.0236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (You will lose a significant portion of credit if your FSM is not minimized.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 408.0236 cm
+1 0 0 1 62.69291 366.0236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .601098 Tw (You will lose a significant portion of credit if your combinational logic is not minimized. If you violate both) Tj T* 0 Tw (this and the previous constraint, you will get a 0.) Tj T* ET
@@ -2432,22 +2445,22 @@ xref
 0000011328 00000 n 
 0000011461 00000 n 
 0000011557 00000 n 
-0000018538 00000 n 
-0000027921 00000 n 
-0000035482 00000 n 
-0000043622 00000 n 
-0000052678 00000 n 
-0000057011 00000 n 
-0000057100 00000 n 
-0000057134 00000 n 
-0000057168 00000 n 
-0000057202 00000 n 
-0000057236 00000 n 
-0000057270 00000 n 
+0000018535 00000 n 
+0000027918 00000 n 
+0000035479 00000 n 
+0000043619 00000 n 
+0000052739 00000 n 
+0000057477 00000 n 
+0000057566 00000 n 
+0000057600 00000 n 
+0000057634 00000 n 
+0000057668 00000 n 
+0000057702 00000 n 
+0000057736 00000 n 
 trailer
 <<
 /ID 
-[<b965818dd8e44e7db8bac60604ce66dc><b965818dd8e44e7db8bac60604ce66dc>]
+[<787a5561512efdbb028fa9c94d27a249><787a5561512efdbb028fa9c94d27a249>]
 % ReportLab generated PDF document -- digest (http://www.reportlab.com)
 
 /Info 52 0 R
@@ -2455,5 +2468,5 @@ trailer
 /Size 84
 >>
 startxref
-57304
+57770
 %%EOF
