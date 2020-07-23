@@ -176,7 +176,7 @@ Make them via gates like you have in the past.
 * Submission file for this part: *1.circ*
 * Main circuit name: *alu12*
 * Input pin(s): *a* [12], *b* [12], *op* [4]
-* Output pin(s): *rddata* [12]
+* Output pin(s): *alur* [12]
 
 Create a 12-bit ALU using your ALU from the previous lab as a starting point. Think about 
 what additional structures you might need additionally here to make this CPU work. Also, you must
@@ -190,7 +190,7 @@ Operations
 """"""""""
 
 Based on the *opcode*, the ALU will perform a certain operation.
-The result of the operation is output as *rddata*.
+The result of the operation is output as *alur*.
 For details on which operation is which *op* value, check the `Operation Description`_ section above.
 
 Note that HLT, and HCF don't actually use the ALU.
@@ -207,8 +207,11 @@ to finish it now and the grading requirements for that portion will be the same.
 
 If anything above is confusing, look at the lecture notes on adders, or ask on Canvas.
 
-Make sure that for the MOVSR instruction that you route the status properly. Since the ALU is the only place
+Make sure that for the MSW instruction that you route the status properly. Since the ALU is the only place
 that this data is available, the routing must be a part of the ALU. 
+
+Note: When routing the status word to the output, the zero flag should be bit 0, the carry flag should be bit 1, 
+and the overflow flag should be bit 2. All other bits must be set to zero.   
 
 
 2. PC and RAM [35]
