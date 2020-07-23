@@ -126,7 +126,7 @@ All operations, except for JMP, HLT, and HCF, place their results in the destina
 +----------------+----------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | MOV            | 0110           | Copy *rs1* as is; place the result in *rd*.                                                                                                                          |
 +----------------+----------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| MSW            | 0111           | Copy *sw* to *rd*.                                                                                                                                                   |
+| MSW            | 0111           | Copy *sw* to *rd*. For this operation, *sw* should contain the status value from the last operation.                                                                                                                                                    |
 +----------------+----------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | MPC            | 1000           | Copy *pc* to *rd*.                                                                                                                                                   |
 +----------------+----------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------+
@@ -211,7 +211,10 @@ Make sure that for the MSW instruction that you route the status properly. Since
 that this data is available, the routing must be a part of the ALU. 
 
 Note: When routing the status word to the output, the zero flag should be bit 0, the carry flag should be bit 1, 
-and the overflow flag should be bit 2. All other bits must be set to zero.   
+and the overflow flag should be bit 2. All other bits must be set to zero. You need to think about how you will
+hold the status word for the last operation so that it can be supplied when the ALU receives a MSW instruction.  
+This is a little bit tricky, think about under what conditions you want to read the held data, and under which 
+conditions you want to write the held data.  
 
 
 2. PC and RAM [35]
