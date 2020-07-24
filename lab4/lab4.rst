@@ -109,8 +109,13 @@ Operation Description
 The following table describes what the opcode from the table above corresponds to in terms of operation.
 All operations, except for JMP, HLT, and HCF, place their results in the destination register *rd*.
 
+In the table below *r* refers to the contents of the register, not the three bit reference to the register.
+For example, "Bitwise AND of *rs1* and *rs2* means to compute the AND of the contents of the register referenced
+by *rs1* and *rs2*.
+
+
 +----------------+----------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| **Operation** | **op [24-21]** | **Description**                                                                                                                                                       |
+| **Operation**  | **op [24-21]** | **Description**                                                                                                                                                      |
 +----------------+----------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | NOT            | 0000           | Negate *rs1*; place the result in *rd*.                                                                                                                              |
 +----------------+----------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------+
@@ -126,7 +131,7 @@ All operations, except for JMP, HLT, and HCF, place their results in the destina
 +----------------+----------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | MOV            | 0110           | Copy *rs1* as is; place the result in *rd*.                                                                                                                          |
 +----------------+----------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| MSW            | 0111           | Copy *sw* to *rd*. For this operation, *sw* should contain the status value from the last operation.                                                                                                                                                    |
+| MSW            | 0111           | Copy *sw* to *rd*. For this operation, *sw* should contain the status value from the last operation.                                                                 |
 +----------------+----------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | MPC            | 1000           | Copy *pc* to *rd*.                                                                                                                                                   |
 +----------------+----------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------+
