@@ -180,7 +180,7 @@ Make them via gates like you have in the past.
 
 * Submission file for this part: *1.circ*
 * Main circuit name: *alu12*
-* Input pin(s): *a* [12], *b* [12], *op* [4]
+* Input pin(s): *a* [12], *b* [12], *op* [4], *sysclock* [1]
 * Output pin(s): *alur* [12]
 
 Create a 12-bit ALU using your ALU from the previous lab as a starting point. Think about 
@@ -189,6 +189,9 @@ removed elements that are not needed, you will lose points if you faile to do so
 is not very much to this portion of the lab, so don't spend too much time overthinking this. 
 
 This portion of the CPU handles the calculations based on stored and current input values.
+
+Note: sysclock has been added as an input so that you may use the built in register to hold
+your status word. 
 
 
 Operations
