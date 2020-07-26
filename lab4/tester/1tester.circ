@@ -38,44 +38,44 @@
   <lib desc="#TTL" name="6"/>
   <lib desc="#HDL-IP" name="7">
     <tool name="VHDL Entity">
-      <a name="content">--------------------------------------------------------------------------------&#13;
--- HEIG-VD, institute REDS, 1400 Yverdon-les-Bains&#13;
--- Project :&#13;
--- File    :&#13;
--- Autor   :&#13;
--- Date    :&#13;
---&#13;
---------------------------------------------------------------------------------&#13;
--- Description :&#13;
---&#13;
---------------------------------------------------------------------------------&#13;
-&#13;
-library ieee;&#13;
-  use ieee.std_logic_1164.all;&#13;
-  --use ieee.numeric_std.all;&#13;
-&#13;
-entity VHDL_Component is&#13;
-  port(&#13;
-  ------------------------------------------------------------------------------&#13;
-  --Insert input ports below&#13;
-    horloge_i  : in  std_logic;                    -- input bit example&#13;
-    val_i      : in  std_logic_vector(3 downto 0); -- input vector example&#13;
-  ------------------------------------------------------------------------------&#13;
-  --Insert output ports below&#13;
-    max_o      : out std_logic;                    -- output bit example&#13;
-    cpt_o      : out std_logic_vector(3 downto 0)  -- output vector example&#13;
-    );&#13;
-end VHDL_Component;&#13;
-&#13;
---------------------------------------------------------------------------------&#13;
---Complete your VHDL description below&#13;
-architecture type_architecture of VHDL_Component is&#13;
-&#13;
-&#13;
-begin&#13;
-&#13;
-&#13;
-end type_architecture;&#13;
+      <a name="content">--------------------------------------------------------------------------------
+-- HEIG-VD, institute REDS, 1400 Yverdon-les-Bains
+-- Project :
+-- File    :
+-- Autor   :
+-- Date    :
+--
+--------------------------------------------------------------------------------
+-- Description :
+--
+--------------------------------------------------------------------------------
+
+library ieee;
+  use ieee.std_logic_1164.all;
+  --use ieee.numeric_std.all;
+
+entity VHDL_Component is
+  port(
+  ------------------------------------------------------------------------------
+  --Insert input ports below
+    horloge_i  : in  std_logic;                    -- input bit example
+    val_i      : in  std_logic_vector(3 downto 0); -- input vector example
+  ------------------------------------------------------------------------------
+  --Insert output ports below
+    max_o      : out std_logic;                    -- output bit example
+    cpt_o      : out std_logic_vector(3 downto 0)  -- output vector example
+    );
+end VHDL_Component;
+
+--------------------------------------------------------------------------------
+--Complete your VHDL description below
+architecture type_architecture of VHDL_Component is
+
+
+begin
+
+
+end type_architecture;
 </a>
     </tool>
   </lib>
@@ -147,11 +147,9 @@ end TCL_Generic;&#13;
     <a name="circuitnamedbox" val="true"/>
     <a name="circuitnamedboxfixedsize" val="true"/>
     <a name="circuitvhdlpath" val=""/>
-    <wire from="(580,360)" to="(580,370)"/>
-    <wire from="(560,380)" to="(560,390)"/>
+    <wire from="(560,300)" to="(560,310)"/>
     <wire from="(680,230)" to="(680,430)"/>
     <wire from="(560,280)" to="(560,290)"/>
-    <wire from="(560,300)" to="(560,310)"/>
     <wire from="(560,320)" to="(560,330)"/>
     <wire from="(520,420)" to="(520,430)"/>
     <wire from="(690,250)" to="(740,250)"/>
@@ -163,12 +161,13 @@ end TCL_Generic;&#13;
     <wire from="(560,310)" to="(600,310)"/>
     <wire from="(560,330)" to="(600,330)"/>
     <wire from="(710,180)" to="(710,270)"/>
+    <wire from="(560,370)" to="(600,370)"/>
     <wire from="(910,510)" to="(1010,510)"/>
+    <wire from="(560,340)" to="(560,370)"/>
     <wire from="(90,260)" to="(130,260)"/>
-    <wire from="(560,340)" to="(560,380)"/>
+    <wire from="(580,360)" to="(580,380)"/>
     <wire from="(1010,210)" to="(1010,510)"/>
     <wire from="(580,350)" to="(600,350)"/>
-    <wire from="(580,370)" to="(600,370)"/>
     <wire from="(600,250)" to="(620,250)"/>
     <wire from="(640,350)" to="(660,350)"/>
     <wire from="(360,260)" to="(390,260)"/>
@@ -192,17 +191,16 @@ end TCL_Generic;&#13;
     <wire from="(600,220)" to="(610,220)"/>
     <wire from="(960,210)" to="(1010,210)"/>
     <wire from="(560,330)" to="(560,340)"/>
-    <wire from="(680,430)" to="(800,430)"/>
     <wire from="(560,290)" to="(560,300)"/>
     <wire from="(560,310)" to="(560,320)"/>
     <wire from="(560,270)" to="(560,280)"/>
+    <wire from="(680,430)" to="(800,430)"/>
     <wire from="(560,390)" to="(560,400)"/>
     <wire from="(580,350)" to="(580,360)"/>
     <wire from="(670,400)" to="(790,400)"/>
     <wire from="(610,220)" to="(610,230)"/>
     <wire from="(360,330)" to="(360,340)"/>
     <wire from="(560,280)" to="(600,280)"/>
-    <wire from="(560,380)" to="(600,380)"/>
     <wire from="(560,400)" to="(600,400)"/>
     <wire from="(560,300)" to="(600,300)"/>
     <wire from="(560,320)" to="(600,320)"/>
@@ -213,11 +211,13 @@ end TCL_Generic;&#13;
     <wire from="(790,380)" to="(790,400)"/>
     <wire from="(320,260)" to="(360,260)"/>
     <wire from="(560,250)" to="(560,270)"/>
+    <wire from="(560,370)" to="(560,390)"/>
     <wire from="(600,230)" to="(600,250)"/>
     <wire from="(620,250)" to="(620,270)"/>
     <wire from="(510,410)" to="(600,410)"/>
     <wire from="(440,110)" to="(470,110)"/>
     <wire from="(580,360)" to="(600,360)"/>
+    <wire from="(580,380)" to="(600,380)"/>
     <wire from="(660,250)" to="(690,250)"/>
     <wire from="(770,620)" to="(800,620)"/>
     <wire from="(110,290)" to="(130,290)"/>
