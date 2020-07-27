@@ -420,6 +420,13 @@ If you make changes to the previous ones, then they may fail the autograder.
     * One way will be very similar to the logic for implementing HLT above. However, if you do it this way, you will need to modify the PC and RAM subcircuit.
     * Another mechanism would be to modify *sysclock* specifically for the PC subcircuit.
 
+
+For the HLT and HCF instructions you will want to think about how you can manage the state of the CPU as a whole. What systemwide
+signals could you manipulate to stop the program counter from counting. Similarly, how could you keep the counter running, but prevent 
+the CPU from executing instructions. These are both fairly straightforward to implement, but may not be quite as obvious as some of the 
+other data routing challenges in this assignment. The assembler may help you here in that you can write simple programs to generate the 
+hlt/hcf instructions and observe your system behavior. 
+
 Control Unit
 """"""""""""
 
