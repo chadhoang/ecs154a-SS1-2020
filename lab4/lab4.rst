@@ -224,6 +224,17 @@ hold the status word for the last operation so that it can be supplied when the 
 This is a little bit tricky, think about under what conditions you want to read the held data, and under which 
 conditions you want to write the held data.  
 
+We know that add and subtract create valid carry and overflow. We talked about masking in lecture, so we want
+to mask these flags for other math and logical operations. As we discussed in lecture, these should be set to 
+zero for any math or logical operation other than add or subtract. Note: this is not always implemented this way. 
+You might, for example, want to use a left shift to multiply. In that case you would really like the overflow 
+flag to be set on overflow. This is, however, beyond the scope of what we discussed so we will choose to mask
+overflow and carry on shift operations. 
+
+The tricky part comes from the fact that we don't want any other operation, e.g., move operations to change the
+contents of the status word. If they did, we wouldn't be able to move the status word into a normal register. 
+
+
 
 2. PC and RAM [35]
 ~~~~~~~~~~~~~~~~~~
